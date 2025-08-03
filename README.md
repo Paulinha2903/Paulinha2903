@@ -2,7 +2,7 @@
 
 <div align="center">
 <a href="https://github.com/Paulinha2903">
-<Img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paulinha&show_icons=true&theme=radical"/>
+<Img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ana&show_icons=true&theme=radical"/>
 </div>
 
 
